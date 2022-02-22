@@ -30,7 +30,7 @@ for i in x:
     time.sleep(0.005)
 
 #print doodle in a set time
-doodle = "fuck you"
+doodle = "get trolled"
 for i in doodle:
     print(i, end='')
     sys.stdout.flush()
